@@ -1,0 +1,44 @@
+# PUBLIC META-ASSET MANIFEST – Klassisch
+
+Status: FINAL-Bestand in Drive, öffentliche Binärspiegelung noch zu vervollständigen.
+
+## 03_Symbole_Icons
+- META_Icon_Klassisch_Kompass_FINAL.png
+- META_Icon_Klassisch_Fackel_FINAL.png
+- META_Icon_Klassisch_Schwerter_FINAL.png
+- META_Icon_Klassisch_Schild_FINAL.png
+- META_Icon_Klassisch_Trank_FINAL.png
+- META_Icon_Klassisch_Buch_FINAL.png
+- META_Icon_Klassisch_Schriftrolle_FINAL.png
+- META_Icon_Klassisch_Truhe_FINAL.png
+- META_Icon_Klassisch_Turm_FINAL.png
+- META_Icon_Klassisch_Baum_FINAL.png
+
+## 04_Rahmen_Layout
+- META_Rahmen_Klassisch_Ecke_Oben_Links_FINAL.png
+- META_Rahmen_Klassisch_Ecke_Oben_Rechts_FINAL.png
+- META_Rahmen_Klassisch_Ecke_Unten_Links_FINAL.png
+- META_Rahmen_Klassisch_Ecke_Unten_Rechts_FINAL.png
+- META_Rahmen_Klassisch_Segment_Horizontal_FINAL.png
+- META_Rahmen_Klassisch_Segment_Vertikal_FINAL.png
+- META_Rahmen_Klassisch_Komplett_FINAL.png
+
+## 05_Separatoren_Linien
+- META_Separator_Klassisch_Kompass_Horizontal_FINAL.png
+- META_Separator_Klassisch_Raute_Schmal_FINAL.png
+- META_Separator_Klassisch_Ornament_Mittel_FINAL.png
+- META_Separator_Klassisch_Raute_Breit_FINAL.png
+- META_Separator_Klassisch_Ranke_FINAL.png
+- META_Separator_Klassisch_Raute_Gross_FINAL.png
+- META_Separator_Klassisch_Vertikal_Raute_FINAL.png
+- META_Separator_Klassisch_Vertikal_Kompass_FINAL.png
+
+## 06_Kapitelmarker_Labels
+- META_Labelrahmen_Klassisch_Rechteck_FINAL.png
+- META_Labelrahmen_Klassisch_Oval_FINAL.png
+- META_Label_Klassisch_Kapitelbanner_Rund_FINAL.png
+- META_Label_Klassisch_Banner_Rechteck_FINAL.png
+- META_Label_Klassisch_Kartusche_Oval_FINAL.png
+- META_Label_Klassisch_Kreisrahmen_FINAL.png
+- META_Label_Klassisch_Wappenkartusche_FINAL.png
+- META_Label_Klassisch_Pergamentbanner_FINAL.png
