@@ -48,3 +48,8 @@ Aktuelle Stilordner:
 - `04_Daemonisch`
 
 Technische Pfade verwenden nach Möglichkeit ASCII, keine Leerzeichen und keine problematischen Sonderzeichen.
+
+
+## Lizenz / Nutzung
+
+Die Nutzung der Assets ist in [LICENSE.md](./LICENSE.md) geregelt. Die öffentliche Verfügbarkeit dieses Repositories bedeutet keine allgemeine Freigabe zur Weiterverwendung.
