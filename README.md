@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Stratum-Assets.png" alt="Stratum-Assets Logo" width="640">
+  <img src="./assets/branding/Stratum-Assets.png" alt="Stratum-Assets Logo" width="640">
 </p>
 
 # Stratum Assets
