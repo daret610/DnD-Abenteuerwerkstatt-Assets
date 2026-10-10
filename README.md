@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Stratum-Assets.png" alt="Stratum-Assets Logo" width="640">
+</p>
+
 # Stratum Assets
 
 Oeffentliches technisches Asset-Repository von Stratum Studio. Aktueller Repositoryname: `daret610/Stratum-Assets`.
