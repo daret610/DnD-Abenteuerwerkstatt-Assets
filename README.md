@@ -1,6 +1,6 @@
-# DnD-Abenteuerwerkstatt-Assets
+# Stratum Assets
 
-Öffentliches technisches Asset-Repository der D&D-Abenteuerwerkstatt.
+Oeffentliches technisches Asset-Repository von Stratum Studio. Bisheriger GitHub-Repositoryname: `DnD-Abenteuerwerkstatt-Assets`; beschlossener Zielname: `Stratum-Assets` (Repository-Rename noch ausstehend).
 
 Dieses Repository dient als stabile Bildquelle für Homebrewery und andere veröffentlichte Produktionsstände.
 
@@ -53,3 +53,9 @@ Technische Pfade verwenden nach Möglichkeit ASCII, keine Leerzeichen und keine 
 ## Lizenz / Nutzung
 
 Die Nutzung der Assets ist in [LICENSE.md](./LICENSE.md) geregelt. Die öffentliche Verfügbarkeit dieses Repositories bedeutet keine allgemeine Freigabe zur Weiterverwendung.
+
+## Namensmigration (beschlossen 2026-10-10)
+
+Stratum Assets ist die gemeinsame technische Publikationsquelle fuer freigegebene Assets; dadurch entstehen keine neuen Rechte an Drittmaterialien. Der bestehende Inhalt und die FINAL-/META-Regeln bleiben unveraendert.
+
+**WICHTIG:** Vor dem Repository-Rename die Homebrewery-Bildlinks (insbesondere `Der Taumelnde Greif`), Raw-GitHub-URLs und eventuelle Automationen inventarisieren. Alte Dateinamen/-pfade und URLs nicht vor erfolgreichem Abruf- und Render-Test ersetzen. Repository-Rename noch **nicht** ausgefuehrt.
